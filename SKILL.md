@@ -107,7 +107,7 @@ be concrete enough to start building from.
 
 ### Phase 4: Output & Validation
 
-Generate the PRD as a **Markdown file** saved to `/mnt/user-data/outputs/`.
+Generate the PRD as a **Markdown file** saved to the current working directory.
 Naming: `PRD-[ProductName]-v[X.X].md` (v0.1 for drafts, v1.0 for complete).
 
 Before presenting, run the quality checklist and the narrative coherence check
